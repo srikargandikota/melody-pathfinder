@@ -1,4 +1,4 @@
-# 🎼 Melody Pathfinder
+# Melody Pathfinder
 
 **Teaching a reinforcement learning agent what makes a melody pleasant.**
 
